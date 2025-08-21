@@ -1,0 +1,6 @@
+{
+  "recipes": [
+    { "title": "Spaghetti", "cuisine": "Italian" },
+    { "title": "Chicken Curry", "cuisine": "Indian"}
+  ]
+}
